@@ -1,0 +1,15 @@
+inputs=256 keys=647 outputs=245 gates=7130
+iteration: 1; vars: 43034; clauses: 23423; decisions: 14125
+iteration: 2; vars: 56616; clauses: 34615; decisions: 112087
+iteration: 3; vars: 70198; clauses: 34481; decisions: 324247
+iteration: 4; vars: 83780; clauses: 46127; decisions: 893525
+iteration: 5; vars: 97362; clauses: 45654; decisions: 1396801
+iteration: 6; vars: 110944; clauses: 50943; decisions: 2555825
+iteration: 7; vars: 124526; clauses: 53321; decisions: 5844368
+iteration: 8; vars: 138108; clauses: 57420; decisions: 10649019
+iteration: 9; vars: 151690; clauses: 68647; decisions: 14932287
+iteration: 10; vars: 165272; clauses: 63298; decisions: 24468100
+iteration: 11; vars: 178854; clauses: 60141; decisions: 42211894
+iteration: 12; vars: 192436; clauses: 62622; decisions: 65926860
+iteration: 13; vars: 206018; clauses: 61324; decisions: 96016055
+iteration: 14; vars: 219600; clauses: 62085; decisions: 141934753

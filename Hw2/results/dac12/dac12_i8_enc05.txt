@@ -1,0 +1,35 @@
+inputs=133 keys=123 outputs=81 gates=2598
+iteration: 1; vars: 15643; clauses: 7655; decisions: 2694
+iteration: 2; vars: 20649; clauses: 18271; decisions: 4286
+iteration: 3; vars: 25655; clauses: 28645; decisions: 5403
+iteration: 4; vars: 30661; clauses: 7432; decisions: 10663
+iteration: 5; vars: 35667; clauses: 7851; decisions: 13316
+iteration: 6; vars: 40673; clauses: 7981; decisions: 19700
+iteration: 7; vars: 45679; clauses: 7807; decisions: 21851
+iteration: 8; vars: 50685; clauses: 16877; decisions: 23626
+iteration: 9; vars: 55691; clauses: 24627; decisions: 28249
+iteration: 10; vars: 60697; clauses: 33635; decisions: 37562
+iteration: 11; vars: 65703; clauses: 41447; decisions: 49007
+iteration: 12; vars: 70709; clauses: 8462; decisions: 53225
+iteration: 13; vars: 75715; clauses: 19140; decisions: 60323
+iteration: 14; vars: 80721; clauses: 27582; decisions: 74069
+iteration: 15; vars: 85727; clauses: 37872; decisions: 75507
+iteration: 16; vars: 90733; clauses: 8423; decisions: 80180
+iteration: 17; vars: 95739; clauses: 17947; decisions: 83383
+iteration: 18; vars: 100745; clauses: 8541; decisions: 87155
+iteration: 19; vars: 105751; clauses: 17844; decisions: 96594
+iteration: 20; vars: 110757; clauses: 25186; decisions: 98798
+iteration: 21; vars: 115763; clauses: 8107; decisions: 106269
+iteration: 22; vars: 120769; clauses: 18691; decisions: 109249
+iteration: 23; vars: 125775; clauses: 28913; decisions: 119401
+iteration: 24; vars: 130781; clauses: 38069; decisions: 122555
+iteration: 25; vars: 135787; clauses: 47179; decisions: 126053
+iteration: 26; vars: 140793; clauses: 6640; decisions: 127384
+iteration: 27; vars: 145799; clauses: 6483; decisions: 128029
+iteration: 28; vars: 150805; clauses: 6567; decisions: 131856
+iteration: 29; vars: 155811; clauses: 17905; decisions: 136010
+iteration: 30; vars: 160817; clauses: 27893; decisions: 168376
+iteration: 31; vars: 165823; clauses: 38266; decisions: 185959
+finished solver loop. fail_count = 0
+key=000111101110001100011100100110100111101110010001001011010010110101010100100000011011100111011001101001100011000001101010010
+iteration=31; backbones_count=0; cube_count=431616; cpu_time=2.5607; maxrss=19.4375

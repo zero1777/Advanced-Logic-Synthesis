@@ -1,0 +1,33 @@
+inputs=8 keys=106 outputs=63 gates=1165
+iteration: 1; vars: 6916; clauses: 2792; decisions: 613
+iteration: 2; vars: 9084; clauses: 8080; decisions: 1640
+iteration: 3; vars: 11252; clauses: 13364; decisions: 1842
+iteration: 4; vars: 13420; clauses: 3312; decisions: 2966
+iteration: 5; vars: 15588; clauses: 8446; decisions: 3660
+iteration: 6; vars: 17756; clauses: 13586; decisions: 4163
+iteration: 7; vars: 19924; clauses: 4526; decisions: 5276
+iteration: 8; vars: 22092; clauses: 9656; decisions: 6175
+iteration: 9; vars: 24260; clauses: 14784; decisions: 7304
+iteration: 10; vars: 26428; clauses: 20032; decisions: 10970
+iteration: 11; vars: 28596; clauses: 5264; decisions: 12022
+iteration: 12; vars: 30764; clauses: 10512; decisions: 12540
+iteration: 13; vars: 32932; clauses: 15626; decisions: 13361
+iteration: 14; vars: 35100; clauses: 20739; decisions: 14678
+iteration: 15; vars: 37268; clauses: 25916; decisions: 20150
+iteration: 16; vars: 39436; clauses: 3958; decisions: 21338
+iteration: 17; vars: 41604; clauses: 9043; decisions: 22836
+iteration: 18; vars: 43772; clauses: 14233; decisions: 24123
+iteration: 19; vars: 45940; clauses: 19163; decisions: 25238
+iteration: 20; vars: 48108; clauses: 3921; decisions: 27615
+iteration: 21; vars: 50276; clauses: 8983; decisions: 30365
+iteration: 22; vars: 52444; clauses: 14041; decisions: 31039
+iteration: 23; vars: 54612; clauses: 19091; decisions: 33732
+iteration: 24; vars: 56780; clauses: 2387; decisions: 34386
+iteration: 25; vars: 58948; clauses: 7220; decisions: 35660
+iteration: 26; vars: 61116; clauses: 12384; decisions: 38468
+iteration: 27; vars: 63284; clauses: 2265; decisions: 38975
+iteration: 28; vars: 65452; clauses: 7095; decisions: 43684
+iteration: 29; vars: 67620; clauses: 12137; decisions: 44930
+finished solver loop. fail_count = 0
+key=1110100100110011011111001110010110110011100001101010011010100001111001001000101101110011000101011010011000
+iteration=29; backbones_count=0; cube_count=180500; cpu_time=0.615446; maxrss=9.36719

@@ -1,0 +1,38 @@
+inputs=88 keys=259 outputs=63 gates=1317
+iteration: 1; vars: 7962; clauses: 7758; decisions: 5960
+iteration: 2; vars: 10350; clauses: 9520; decisions: 8246
+iteration: 3; vars: 12738; clauses: 14026; decisions: 26348
+iteration: 4; vars: 15126; clauses: 18654; decisions: 27540
+iteration: 5; vars: 17514; clauses: 11107; decisions: 42237
+iteration: 6; vars: 19902; clauses: 17589; decisions: 44876
+iteration: 7; vars: 22290; clauses: 12703; decisions: 68305
+iteration: 8; vars: 24678; clauses: 18223; decisions: 77841
+iteration: 9; vars: 27066; clauses: 24033; decisions: 112701
+iteration: 10; vars: 29454; clauses: 14016; decisions: 132057
+iteration: 11; vars: 31842; clauses: 18778; decisions: 155298
+iteration: 12; vars: 34230; clauses: 23546; decisions: 176978
+iteration: 13; vars: 36618; clauses: 29536; decisions: 189300
+iteration: 14; vars: 39006; clauses: 11648; decisions: 291129
+iteration: 15; vars: 41394; clauses: 12102; decisions: 356286
+iteration: 16; vars: 43782; clauses: 12610; decisions: 396724
+iteration: 17; vars: 46170; clauses: 18352; decisions: 400160
+iteration: 18; vars: 48558; clauses: 24094; decisions: 433140
+iteration: 19; vars: 50946; clauses: 29862; decisions: 447427
+iteration: 20; vars: 53334; clauses: 14422; decisions: 505457
+iteration: 21; vars: 55722; clauses: 14910; decisions: 512846
+iteration: 22; vars: 58110; clauses: 15308; decisions: 527905
+iteration: 23; vars: 60498; clauses: 20456; decisions: 529375
+iteration: 24; vars: 62886; clauses: 26767; decisions: 587380
+iteration: 25; vars: 65274; clauses: 32232; decisions: 594632
+iteration: 26; vars: 67662; clauses: 13199; decisions: 620562
+iteration: 27; vars: 70050; clauses: 19335; decisions: 638849
+iteration: 28; vars: 72438; clauses: 24641; decisions: 642806
+iteration: 29; vars: 74826; clauses: 11674; decisions: 664098
+iteration: 30; vars: 77214; clauses: 16632; decisions: 664610
+iteration: 31; vars: 79602; clauses: 21550; decisions: 665098
+iteration: 32; vars: 81990; clauses: 26418; decisions: 669173
+iteration: 33; vars: 84378; clauses: 32376; decisions: 688428
+iteration: 34; vars: 86766; clauses: 2338; decisions: 711049
+finished solver loop. fail_count = 0
+key=0010010100000101010011001110001000010001100100010010111010100111111001001000010011000110001001100100011000110000010101100100100000000000001000100000000000001010000000100000000010000010101010111011100000001110100000000000000000011001011101111011011010101100100
+iteration=34; backbones_count=0; cube_count=236880; cpu_time=7.30223; maxrss=16.2969
