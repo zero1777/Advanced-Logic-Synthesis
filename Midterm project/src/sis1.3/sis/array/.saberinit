@@ -1,0 +1,2 @@
+setopt load_flags -I../include -DSIS -DNO_X
+load array.c /net/opua/users2/sis/mips/lib/sis.o /net/opua/users2/sis/mips/lib/libsis.a -lm

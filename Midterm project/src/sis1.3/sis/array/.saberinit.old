@@ -1,0 +1,2 @@
+setopt load_flags -I../include -I/net/ic/octtools/vax/include
+load array.c /net/opua/users2/sis/vax/lib/libsis.a -lm -lX11

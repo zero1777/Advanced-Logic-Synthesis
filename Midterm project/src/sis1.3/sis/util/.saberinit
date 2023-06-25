@@ -1,0 +1,2 @@
+source 
+load -I../include -I/net/eros/octtools/pmax/include ../lib/sis.o cpu_time.o cpu_stats.o getopt.o safe_mem.o strsav.o texpand.o prtime.o pipefork.o saveimage.o pathsearch.o stub.o restart.o state.o tmpfile.o -lm -lX11

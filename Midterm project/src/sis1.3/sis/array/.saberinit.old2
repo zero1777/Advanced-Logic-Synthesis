@@ -1,0 +1,2 @@
+setopt load_flags -I../include -I/net/ic/octtools/mips/include -DSIS
+load array.c /net/opua/users2/sis/mips/lib/sis.o /net/opua/users2/sis/mips/lib/libsis.a /net/ic/octtools/mips/lib/liboh.a /net/ic/octtools/mips/lib/liboct.a /net/ic/octtools/mips/lib/libst.a /net/ic/octtools/mips/lib/libtr.a /net/ic/octtools/mips/lib/liberrtrap.a /net/ic/octtools/mips/lib/libuprintf.a /net/ic/octtools/mips/lib/libutility.a /net/ic/octtools/mips/lib/libmm.a /net/ic/octtools/mips/lib/libport.a -lm -lX11
