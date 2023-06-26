@@ -7,7 +7,7 @@ NTHU CS. 11120 CS613200 Advanced Logic Synthesis.
 - Spec: [link](Midterm%20project/HW1_Spec.pdf)
 - Report: [link](Midterm%20project/HW1_111062584.pdf)
 
-## Hw2
+## Hw2: Logic encryption algorithms evaluation
 - Use SAT Attack to evaluate different logic encryption algorithms.
 - Spec: [link](Hw2/HW2_Spec.pdf)
 - Report: [link](Hw2/HW2_111062584.pdf)
