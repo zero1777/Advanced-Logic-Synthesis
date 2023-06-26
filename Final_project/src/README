@@ -1,0 +1,8 @@
+Server: ic22
+How to compile
+$ cd src
+$ g++ -std=c++11 -O3 -c main.cpp -o main.o -lglpk -isystem ../include/LEDA/incl
+$ g++ -o main main.o -L../include/LEDA -lG -lL -lm -lglpk
+
+How to execute
+$ ./main testcase (Make sure the current directory is in src/, output blif file will generate in results/)

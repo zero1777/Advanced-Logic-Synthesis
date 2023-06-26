@@ -1,0 +1,6 @@
+setopt load_flags -g -DOCT -DSIS -Iinclude -I/projects/octtools/octtools/mips/include
+load /projects/octtools/octtools/mips/lib/liboh.a /projects/octtools/octtools/mips/lib/liboct.a /projects/octtools/octtools/mips/lib/libst.a /projects/octtools/octtools/mips/lib/libtr.a /projects/octtools/octtools/mips/lib/libmm.a /projects/octtools/octtools/mips/lib/liberrtrap.a /projects/octtools/octtools/mips/lib/libuprintf.a /projects/octtools/octtools/mips/lib/libutility.a /projects/octtools/octtools/mips/lib/libport.a -lm -lX11
+load /projects/sis/sis-devel/mips/lib/libsis.a
+load stg/com_stg.c
+load stg/stg_util.c
+load retime/re_initial.c
