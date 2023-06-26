@@ -15,7 +15,8 @@ NTHU CS. 11120 CS613200 Advanced Logic Synthesis.
 ## Final project: FSM State Assignment for Low Power Dissipation
 - Minimize power consumption of a finite-state machine(FSM) in multilevel logic implementations.
 - The project requires to develop an automatic design flow to encode a given FSM for power optimization.
-- ![](imgs/DesignFlow.jpg)
-- ![](imgs/Results.jpg)
+<img src="imgs/DesignFlow.jpg" width="50%" height="50%">
+<img src="imgs/Results.jpg" width="80%" height="80%">
+
 - Spec: [link](Final_project/Final_project_spec.pdf)
 - Report: [link](Final_project/Final_project_111062584.pdf)
